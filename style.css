@@ -112,3 +112,6 @@ body {
 .register-form a:hover {
   color: purple;
 }
+
+@media (max-width: 1200px) {
+}
